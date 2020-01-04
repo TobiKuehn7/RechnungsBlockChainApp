@@ -1,4 +1,4 @@
-package de.tkinfo.sendquittungapp;
+package de.tkinfo.recivequittungapp;
 
 import androidx.appcompat.app.AppCompatActivity;
 import android.content.Intent;
@@ -96,3 +96,4 @@ public class MainActivity extends AppCompatActivity implements
         return ndefMessageout;
     }
 }
+
